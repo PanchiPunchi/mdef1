@@ -1,7 +1,11 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/cerca_.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Industrial designer. I have developed my career in the technology and innovation area. From the development of projects in the medical field, to projects of large scale production and retail design. I have also collaborated with national and international companies.
+
+As a methodology, I use Design Thinking. With focus on empathy and creativity, I design simple solutions on the basis of present challenges, I utilize manual and digital prototyping tools for visualization and testing.
+
+I have an interest in fabrication, technology, and manufacturing with the creation on the basis of emotions, empathy and aesthetic
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
