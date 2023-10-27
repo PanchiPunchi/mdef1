@@ -2,3 +2,4 @@ For the beginning of the design studio, we learned about the value of prototypin
 
 As a designer, I already have experience with prototypes, but for the coming year, I would like to integrate this practice with more advanced technologies such as augmented reality or artificial intelligence
 
+![](../images/bolita.jpg)
