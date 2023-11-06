@@ -12,4 +12,4 @@ As an activity, we had to create and coexist with a machine made from recycled m
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUtBbdU6IH0xDR1T0C-FHg21v5QiJcn3wrAQT8_IsDMdShxlcbaNHHSlmwrML1M7WQK4XNtvj3Ye-w/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-<iframe src="../../../files/Reflexions.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="../../files/Reflexions.pdf" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
