@@ -285,3 +285,11 @@ Also, to be honest we were all surprised when we were able to make it work. Osca
 
 ### User manual for different models of the intercom
 <iframe width="100%" height="800" src="https://tegui-distel.com/WebRoot/StoreES3/Shops/ec3381/MediaGallery/Bticino_2_hilos.pdf"></iframe>
+
+**Final project - the almost useful machine**
+
+For the final project we had to build a machine that didn´t serve a usueful porpuse. Here is the final presentation with the hole process. 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgerue-YyYcLRTJawOIUOKAdpP8VhmkDQ1P8AJZucsmuzc5au8tcNQx4a_o2y-S16UtLv_2gLkXZEA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Overall was a fun expirience, I haven't 3D modeled in a while, this project as a kickstart for making, was a fun challenge 
