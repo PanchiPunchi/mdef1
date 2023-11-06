@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-Deliravable 15/10/2023
+**Deliravable 15/10/2023**
 
 First deliverable for the course where we start the process of visualizing our interests and how they relate to large-scale issues.
 
