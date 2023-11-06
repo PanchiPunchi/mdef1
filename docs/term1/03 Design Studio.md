@@ -5,7 +5,7 @@ As a designer, I already have experience with prototypes, but for the coming yea
 ![](../images/bolita.jpg)
 
 
-## 01 interventention 
+## Interventention 
 
 **Video**
 
@@ -18,5 +18,7 @@ As a designer, I already have experience with prototypes, but for the coming yea
 **Reflections**
 
 During the intervention, in an unconscious way we did a  celebration with a theme. We took advantage of Everardo's birthday to organize it and observed how it sparked dynamics, conversation topics, attracted attention, and prompted people to take photos. What we didn't anticipate was that some individuals did not take pictures and continued having regular conversations with other guests
+
+
 
 
