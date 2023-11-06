@@ -286,7 +286,7 @@ Also, to be honest we were all surprised when we were able to make it work. Osca
 ### User manual for different models of the intercom
 <iframe width="100%" height="800" src="https://tegui-distel.com/WebRoot/StoreES3/Shops/ec3381/MediaGallery/Bticino_2_hilos.pdf"></iframe>
 
-**Final project - the almost useful machine**
+## Final project - The almost useful Machine 
 
 For the final project we had to build a machine that didn´t serve a usueful porpuse. Here is the final presentation with the hole process. 
 
